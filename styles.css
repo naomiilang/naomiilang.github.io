@@ -1,0 +1,31 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+     color: pink;
+}
+
+h1 {
+    padding: 20px 0;
+    margin: 0;
+    font-size: 45px;
+}
+header {
+    color: palevioletred;
+    font-weight: bold;
+    text-align: center;
+    background-color: #fff2fd;
+}
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+#main-bio,
+#contact-info,
+#bio-image {
+    float: left;
+}
+#main-bio {
+    width: 70%;
+}
+#contact-info {
+    width:30%;
+}
